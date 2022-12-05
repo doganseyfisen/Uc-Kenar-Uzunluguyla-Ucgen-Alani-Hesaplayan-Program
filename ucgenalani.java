@@ -1,4 +1,9 @@
 import java.util.Scanner;
+
+/**
+ * @author Doğan Seyfi Şen - 2022
+ */
+
 public class Driver {
 	public static void main(String[] args) {
     int k1, k2, k3, u2, u;
